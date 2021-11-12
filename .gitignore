@@ -1,0 +1,17 @@
+alphacombiner/*
+*.bat
+audio/*
+etc/*
+models/*
+dna/*
+paths/*
+lib/*
+*.mid
+*.dc
+*.pyo
+*.mp3
+*.wav
+*.bam
+*.egg
+*.ptf
+*.dna
